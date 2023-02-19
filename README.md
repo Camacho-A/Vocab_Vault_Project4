@@ -29,9 +29,9 @@ With dyslexia affecting 780 million individuals globally, many of whom do not re
 - Route path="add" element={Create} 
 
 ### Website Images
-![IndexPage](https://ibb.co/PtzWMsR)
-![ShowPage](https://ibb.co/TtnPSbQ)
-![CreatePage](https://ibb.co/8D0C1L9)
+![IndexPage](img/IndexPage.png)
+![ShowPage](img/ShowPage.png)
+![CreatePage](img/CreatePage.png)
 
 ### Backend Wireframe
 ![Wireframe](https://ibb.co/g4vMZGT)
