@@ -34,7 +34,7 @@ With dyslexia affecting 780 million individuals globally, many of whom do not re
 ![CreatePage](img/CreatePage.png)
 
 ### Backend Wireframe
-![Wireframe](https://ibb.co/g4vMZGT)
+![Wireframe](img/Mockflow.png)
 
 ### Link to Planning Trello Board
 [Trello Board](https://trello.com/b/mgSvAPPm/language-log-project-4)
